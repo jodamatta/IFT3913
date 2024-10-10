@@ -5,3 +5,9 @@
 [Jackson](https://github.com/umontreal-diro/jackson-core)
 
 [Lien pour notre fork](https://github.com/jodamatta/jackson-core)
+
+[Documentation des nouveaux tests](https://github.com/jodamatta/jackson-core/tree/2.18/new_tests)
+
+Taux de couverture final:
+
+<img src="coverage.png" width="700" />
